@@ -1,0 +1,7 @@
+1. Ref
+https://networkengineering.stackexchange.com/questions/23369/how-to-check-if-a-nic-supports-hardware-timestamps
+sudo ethool -T eth1
+
+2. Build
+cd linux/build/
+make all
